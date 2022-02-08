@@ -7,6 +7,6 @@
 </head>
 <body>
 	<h1>Uji coba file REMOTE</h1>
-	
+	<center><h2>HENDRA </h2></center>
 </body>
 </html>
